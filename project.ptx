@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project ptx-version="2">
   <targets>
-    <target name="web" format="html" />
-    <target name="print" format="pdf" />
+    <target
+      name="web"
+      format="html"
+      source="source/main.ptx"
+      publication="publication/publication.ptx"
+      output-dir="output/web" />
+    <target
+      name="print"
+      format="pdf"
+      latex-engine="xelatex"
+      source="source/main.ptx"
+      publication="publication/publication.ptx"
+      output-dir="output/print"
+      output-filename="data-analytics.pdf" />
   </targets>
 </project>
