@@ -1,0 +1,11 @@
+<chapter xml:id="correlation">
+  <title>Correlation</title>
+  <section xml:id="correlation-association">
+    <title>Measuring linear association</title>
+    <p>Pearson correlation measures the direction and strength of a linear relationship. It does not measure causation, and a value near zero does not rule out a strong nonlinear relationship.</p>
+  </section>
+  <section xml:id="correlation-before-regression">
+    <title>Correlation is not a prediction equation</title>
+    <p>Correlation is symmetric: it does not decide which variable predicts which. Regression adds an explicit response, predictors, and an equation for conditional mean behaviour.</p>
+  </section>
+</chapter>

@@ -1,0 +1,7 @@
+<chapter xml:id="machine-learning">
+  <title>Machine Learning</title>
+  <section xml:id="machine-learning-goal">
+    <title>Prediction, explanation, and validation</title>
+    <p>Machine learning expands the modelling toolkit, but the first question remains the same: what decision or prediction are we trying to support? Training performance is not enough; models must be checked on data they did not fit.</p>
+  </section>
+</chapter>

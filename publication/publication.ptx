@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication>
+  <common>
+    <tableofcontents level="3" />
+  </common>
+  <source>
+    <directories external="../assets" generated="../generated-assets" />
+  </source>
+  <numbering>
+    <division level="3" />
+    <blocks level="3" />
+  </numbering>
+</publication>

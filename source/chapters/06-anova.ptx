@@ -1,0 +1,7 @@
+<chapter xml:id="anova">
+  <title>ANOVA</title>
+  <section xml:id="anova-regression">
+    <title>ANOVA and regression are connected</title>
+    <p>Analysis of variance can be understood inside the linear-model framework. Categorical predictors become indicator variables and the model compares systematic between-group differences with unexplained within-group variation.</p>
+  </section>
+</chapter>

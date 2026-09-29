@@ -1,0 +1,11 @@
+<chapter xml:id="r-python-crosswalk">
+  <title>R and Python Crosswalk</title>
+  <section xml:id="crosswalk-principle">
+    <title>Learn the idea once</title>
+    <p>R and Python use different syntax, but the underlying data structures, probability models, matrix algebra, regression ideas, diagnostics, and validation principles are shared.</p>
+  </section>
+  <section xml:id="crosswalk-workflow">
+    <title>A two-language workflow</title>
+    <p>A useful routine is to solve the problem in the language used by the course or source, explain the result in ordinary language, reproduce it in the second language, and compare the outputs. Disagreement becomes a debugging and learning opportunity.</p>
+  </section>
+</chapter>

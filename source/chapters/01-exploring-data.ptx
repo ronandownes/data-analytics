@@ -1,0 +1,11 @@
+<chapter xml:id="exploring-data">
+  <title>Exploring Data</title>
+  <section xml:id="exploring-first-look">
+    <title>Before you model anything</title>
+    <p>Ask what one row represents, what each column measures, which values are missing, which units are being used, and whether the data could answer the question you care about.</p>
+  </section>
+  <section xml:id="exploring-summaries">
+    <title>Shape, centre, spread, and missingness</title>
+    <p>Numerical summaries are useful only when read alongside the distribution that produced them. Mean, median, standard deviation, quartiles, ranges, counts, and missing-value patterns answer different questions.</p>
+  </section>
+</chapter>

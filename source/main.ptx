@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pretext xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en-IE">
+  <book xml:id="data-analytics">
+    <title>Data Analytics</title>
+    <subtitle>From Data to Decisions with R and Python</subtitle>
+    <xi:include href="chapters/00-orientation.ptx" />
+    <xi:include href="chapters/01-exploring-data.ptx" />
+    <xi:include href="chapters/02-visualisation.ptx" />
+    <xi:include href="chapters/03-probability-uncertainty.ptx" />
+    <xi:include href="chapters/04-correlation.ptx" />
+    <xi:include href="chapters/05-regression.ptx" />
+    <xi:include href="chapters/06-anova.ptx" />
+    <xi:include href="chapters/07-classification.ptx" />
+    <xi:include href="chapters/08-time-series.ptx" />
+    <xi:include href="chapters/09-machine-learning.ptx" />
+    <xi:include href="chapters/10-communication.ptx" />
+    <xi:include href="chapters/11-r-python-crosswalk.ptx" />
+    <xi:include href="chapters/12-projects.ptx" />
+  </book>
+</pretext>

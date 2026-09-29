@@ -1,0 +1,11 @@
+<chapter xml:id="projects">
+  <title>Projects and Case Studies</title>
+  <section xml:id="projects-purpose">
+    <title>From technique to decision</title>
+    <p>Projects should begin with a real question rather than a requirement to use a particular algorithm. Good projects include data provenance, cleaning choices, modelling decisions, diagnostics, limitations, and a clear explanation of what someone could do with the result.</p>
+  </section>
+  <section xml:id="projects-growing">
+    <title>A growing library</title>
+    <p>The project library can include finance, aviation, weather, transport, retail, sport, public data, and other domains. The same statistical ideas should recur in different contexts so that the method becomes transferable rather than tied to one dataset.</p>
+  </section>
+</chapter>

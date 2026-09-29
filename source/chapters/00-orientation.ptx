@@ -1,0 +1,16 @@
+<chapter xml:id="orientation">
+  <title>How to Use This Book</title>
+  <section xml:id="orientation-not-linear">
+    <title>This is not a one-way road</title>
+    <p>Data analysis is rarely learned by starting with a list of axioms and moving in one direction. A real problem sends you backwards and forwards: from a graph to a model, from a model to the mathematics, from the mathematics to code, and from the code back to the data.</p>
+    <p>Use this book in the same way. Start where the problem is interesting. Move down into the underlying ideas when you need them, or move up into applications when you want to see why an idea matters.</p>
+  </section>
+  <section xml:id="orientation-pattern">
+    <title>The recurring pattern</title>
+    <p>Most topics use the same rhythm: question, intuition, mathematics, R, Python, visualisation, interpretation, exercise, and application. The aim is to understand the statistical idea well enough that changing software does not change your understanding.</p>
+  </section>
+  <section xml:id="orientation-cloud">
+    <title>Cloud-first working</title>
+    <p>The default workflow is browser based. R work belongs in Posit Cloud, Python work belongs in Google Colab, source belongs in GitHub, and finished teaching material belongs on the web.</p>
+  </section>
+</chapter>

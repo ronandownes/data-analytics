@@ -1,0 +1,7 @@
+<chapter xml:id="communication">
+  <title>Communicating Results</title>
+  <section xml:id="communication-claim">
+    <title>Say what the analysis supports</title>
+    <p>A good analysis separates what was observed, what was estimated, what assumptions were made, and what remains uncertain. A statistically significant result is not automatically a large, useful, or causal effect.</p>
+  </section>
+</chapter>

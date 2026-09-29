@@ -1,0 +1,14 @@
+!.gitignore
+output
+published
+generated-assets
+.cache
+executables.ptx
+node_modules
+.error_schema.log
+logs
+.DS_Store
+Thumbs.db
+.vscode
+*.code-workspace
+venv/

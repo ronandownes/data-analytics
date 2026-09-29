@@ -1,0 +1,7 @@
+<chapter xml:id="time-series">
+  <title>Time Series</title>
+  <section xml:id="time-series-order">
+    <title>When order matters</title>
+    <p>Time-series data break the assumption that observations can be freely rearranged. Trend, seasonality, serial dependence, and structural change become part of the modelling problem.</p>
+  </section>
+</chapter>

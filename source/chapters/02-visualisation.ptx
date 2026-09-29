@@ -1,0 +1,11 @@
+<chapter xml:id="visualisation">
+  <title>Visualisation</title>
+  <section xml:id="visualisation-question">
+    <title>Choose the graph from the question</title>
+    <p>A chart is part of the analysis, not decoration. Histograms describe distributions, scatter plots show relationships between quantitative variables, boxplots compare distributions, and bar charts compare categories.</p>
+  </section>
+  <section xml:id="visualisation-check">
+    <title>Use plots to challenge your first answer</title>
+    <p>A useful graph should make it easier to notice outliers, curvature, clusters, missing structure, and misleading summaries before a formal model makes the analysis look more certain than it is.</p>
+  </section>
+</chapter>

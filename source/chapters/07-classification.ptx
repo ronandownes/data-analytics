@@ -1,0 +1,7 @@
+<chapter xml:id="classification">
+  <title>Classification and Logistic Regression</title>
+  <section xml:id="classification-probability">
+    <title>When the outcome is a category</title>
+    <p>Logistic regression models the probability of an outcome such as yes or no. The linear predictor is transformed so fitted probabilities remain between zero and one.</p>
+  </section>
+</chapter>

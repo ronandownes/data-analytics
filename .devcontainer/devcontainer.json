@@ -1,0 +1,28 @@
+// Based on the PreTeXt 2.54.0 cloud authoring setup.
+{
+  "image": "pretextbook/pretext-full:1.16",
+  "features": {
+    "ghcr.io/devcontainers/features/github-cli": {}
+  },
+  "postCreateCommand": {
+    "install pandoc": "bash ./.devcontainer/installPandoc.sh",
+    "mark repo as safe": "git config --global --add safe.directory $(pwd)"
+  },
+  "customizations": {
+    "codespaces": {
+      "openFiles": ["README.md", "source/main.ptx"]
+    },
+    "vscode": {
+      "settings": {
+        "files.autoSave": "afterDelay",
+        "xml.validation.enabled": true,
+        "redhat.telemetry.enabled": false
+      },
+      "extensions": [
+        "oscarlevin.pretext-tools",
+        "streetsidesoftware.code-spell-checker",
+        "mathematic.vscode-pdf"
+      ]
+    }
+  }
+}

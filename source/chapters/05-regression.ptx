@@ -1,0 +1,24 @@
+<chapter xml:id="regression">
+  <title>Regression</title>
+  <section xml:id="regression-simple">
+    <title>Simple Linear Regression</title>
+    <p>A simple linear regression models a numerical response using one predictor. The fitted line gives an estimated intercept and slope, while residuals record what the line did not explain.</p>
+    <p>The line is useful only when its assumptions and the range of the observed data are respected.</p>
+  </section>
+  <section xml:id="regression-multiple">
+    <title>Multiple Linear Regression</title>
+    <p>Multiple regression uses several predictors at once. A coefficient is interpreted as the estimated change in the response associated with one predictor while the other included predictors are held constant.</p>
+    <p>In matrix form the model is <m>y=X\beta+\varepsilon</m>. Ordinary least squares gives <me>\widehat{\beta}=(X^T X)^{-1}X^T y.</me></p>
+  </section>
+  <section xml:id="regression-diagnostics">
+    <title>Diagnostics before confidence</title>
+    <p>Residual plots, unusual observations, model form, unequal variance, dependence, and multicollinearity all affect whether a fitted regression should be trusted.</p>
+  </section>
+  <section xml:id="regression-espresso">
+    <title>Case Study: Espresso Extraction</title>
+    <p>Fifteen espresso shots provide a compact worked example of multiple regression. The response is extraction yield; predictors are grind size, water temperature, and shot time.</p>
+    <p>The example is deliberately small enough to calculate the design matrix and least-squares coefficients by hand, then verify the result with software.</p>
+    <p>Download the teaching dataset from <url href="https://raw.githubusercontent.com/ronandownes/data-analytics/main/assets/data/espresso.csv">espresso.csv</url>.</p>
+    <p>Run the R version in <url href="https://posit.cloud/">Posit Cloud</url> and the Python version in <url href="https://colab.research.google.com/">Google Colab</url>. The goal is to compare languages while keeping the statistical reasoning fixed.</p>
+  </section>
+</chapter>

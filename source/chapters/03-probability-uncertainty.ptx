@@ -1,0 +1,11 @@
+<chapter xml:id="probability-uncertainty">
+  <title>Probability and Uncertainty</title>
+  <section xml:id="probability-randomness">
+    <title>Data varies</title>
+    <p>Statistical analysis treats variation as information rather than inconvenience. Probability models describe uncertainty and give us a language for distinguishing signal from noise.</p>
+  </section>
+  <section xml:id="probability-inference">
+    <title>From a sample to a wider claim</title>
+    <p>Confidence intervals, standard errors, and hypothesis tests all depend on assumptions about how the data were generated. Their output should be interpreted with those assumptions visible.</p>
+  </section>
+</chapter>
